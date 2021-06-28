@@ -12,3 +12,8 @@
 
 ## Usage
 `python3 projecct.py`
+
+
+
+
+**Developed by k2 with ❤️**
