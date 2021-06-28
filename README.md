@@ -8,7 +8,7 @@
 * imutils
 * numpy
 * cv2
-* Faical Shape predictor
+* Facial Shape predictor
 
 ## Usage
 `python3 projecct.py`
