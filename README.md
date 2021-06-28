@@ -11,7 +11,7 @@
 * Facial Shape predictor
 
 ## Usage
-`python3 projecct.py`
+`python3 project.py`
 
 
 
